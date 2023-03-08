@@ -7,6 +7,9 @@ type Props = {
 }
 
 const Alert = ({ preview }: Props) => {
+  function changeBackground() { 
+ return null;
+  }
   return (
     <div
       className={cn('border-b', {
@@ -29,12 +32,13 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              Like a Dark Theme?{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`#`}
+                onClick={changeBackground()}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
+                Switch Now
               </a>
               .
             </>

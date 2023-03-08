@@ -1,6 +1,6 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: '10 WAY cheaper Alt tech products that work just as good as the original!'
+excerpt: 'These top ten substantially cheaper alternative products to the originals will AMAZE you and your WALLET. Read on to see these note-worthy competitors.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -9,11 +9,16 @@ author:
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
+There are several benefits to buying a cheaper product that is comparable in value to a more expensive one:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Cost savings: The most obvious benefit of buying a cheaper product is cost savings. You can get a product that performs the same function as a more expensive one but at a lower price point. This can be especially beneficial if you're on a tight budget or want to save money for other expenses.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+More affordable upgrades: If you choose a cheaper product, you may have more budget left over to upgrade other parts of your setup. For example, if you're buying a computer and choose a cheaper model, you may be able to upgrade the RAM or hard drive to improve its performance.
 
-## Lorem Ipsum
+Lower risk: Buying a cheaper product can also be a lower risk proposition. If you're not sure whether you'll like a particular product or whether it will meet your needs, buying a cheaper version can be a way to test it out without spending too much money. If it doesn't work out, you can always upgrade to a more expensive product later.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Environmental impact: Cheaper products often have a lower environmental impact than their more expensive counterparts. This is because they may be made with fewer resources or have a shorter lifespan, leading to less waste and pollution. By choosing a cheaper product, you can reduce your environmental footprint.
+
+Reduced pressure to take care of the product: If you buy a cheaper product, you may feel less pressure to take care of it or worry less if it gets damaged or lost. This can be a benefit if you're looking for a product that you can use without worrying too much about its maintenance or replacement cost.
+
+Overall, buying a cheaper product that is comparable in value to a more expensive one can be a smart decision in many cases, depending on your needs and priorities. It can help you save money, reduce your environmental impact, and enjoy the benefits of a product without spending too much or feeling too much pressure to take care of it.

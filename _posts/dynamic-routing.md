@@ -1,19 +1,33 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Brand New Must-Have Tech You Need Starting 2023'
+excerpt: 'Exceptionally innovative brand new tech just released to the market that your going to need in your LIFE! Continue reading to get the latest scoop and feedback on some mind-blowing new tech from a collection of our qualified tech-savvy ethusiasts'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-03-16T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: John Juicen
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Samsung Galaxy Z Fold 3: This is a foldable smartphone that can transform into a tablet-sized device. It has a 7.6-inch foldable Dynamic AMOLED 2X display and a 120Hz refresh rate. The device also has an under-display camera and supports the S Pen.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Apple Watch Series 7: The latest iteration of Apple's popular smartwatch has a larger display and thinner borders. It also has a full keyboard and new watch faces. The watch is available in 41mm and 45mm sizes and comes in five colors.
 
-## Lorem Ipsum
+Microsoft Surface Laptop Studio: This is a 2-in-1 device that can be used as a laptop or a tablet. It has a unique design that allows the screen to be lifted and tilted for a more comfortable drawing experience. It also has a high-resolution display, powerful performance, and a long battery life.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Sony WF-1000XM4 earbuds: These wireless earbuds have a noise-canceling feature that blocks out external noise. They also have improved sound quality, a longer battery life, and improved Bluetooth connectivity.
+
+DJI Air 2S: This is a drone that has a 1-inch sensor and can shoot 5.4K video at 30fps. It also has a maximum flight time of 31 minutes and can fly up to 12.4 miles away from the controller. The drone is also equipped with obstacle avoidance technology to prevent collisions.
+
+## More Exciting Tech
+
+Google Pixel 6: This is the latest smartphone from Google, which features a custom Google Tensor processor and a new camera system that promises better low-light performance. The phone is available in two sizes: Pixel 6 and Pixel 6 Pro.
+
+Amazon Echo Show 15: This is a smart display that is designed to be mounted on a wall. It has a 15.6-inch display, which is the largest screen size of any Echo Show device. It can be used to control smart home devices, make video calls, and watch content.
+
+Oculus Quest 2: This is a virtual reality headset that can be used without a PC or console. It has a high-resolution display and improved graphics performance compared to its predecessor. It also has a wide range of games and experiences available.
+
+Fitbit Charge 5: This is a fitness tracker that has a new design and features such as a built-in GPS, an EDA sensor for stress management, and a skin temperature sensor. It also has a longer battery life and can track various fitness metrics such as heart rate, sleep, and activity.
+
+Microsoft Surface Duo 2: This is a dual-screen smartphone that can be used for multitasking. It has two 5.8-inch OLED displays and supports the Surface Pen. It also has improved performance and a better camera system compared to its predecessor.
